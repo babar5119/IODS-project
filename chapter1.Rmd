@@ -10,10 +10,15 @@ date()
 
 ```
 The text continues here.
-At the moment, I am feeling that I am overwhelmed with the information from the course, as there are many things need to know being a very basic user of R. However, I hope after couple of exercises and after reading books that are recommended by instructor, many things will be clear soon. 
+
+**Thoughts before the course**
+At the moment, I am feeling a bit overwhelmed with the information from the course, as there are many things need to know being a very basic user of R. However, I hope after couple of exercises and after reading books that are recommended by instructor, many things will be clear soon. 
+
+**Learning experience regarding R**
 
 My learning experience regarding R for Health Data Science book and Exercise Set
 I am still going through it , so I don't go though all the material yet, but so far it is easy to grasp and understand..
 
-Here is the link to my  
+*Link to my course diary*
+Here is the link to my course diary 
 https://babar5119.github.io/IODS-project/
