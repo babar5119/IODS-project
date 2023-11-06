@@ -1,2 +1,2 @@
 # IODS-project
-Template for the IODS course
+Link to the curse diary: https://babar5119.github.io/IODS-project/
