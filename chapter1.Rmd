@@ -1,3 +1,7 @@
+---
+---
+---
+
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
@@ -13,12 +17,12 @@ The text continues here.
 
 1.  **Thoughts before the course**
 
-At the moment, I am feeling a bit overwhelmed with the information from the course, as there are many things need to know being a very basic user of R. However, I hope after couple of exercises and after reading books that are recommended by instructor, many things will be clear soon. I am updating it for github.
+At the moment, I am feeling a bit overwhelmed with the information from the course, as there are many things need to know being a very basic user of R. However, I hope after couple of exercises and after reading books that are recommended by instructor, many things will be clear soon. As Github is a quit a new thing for me, but it seems interesting as well. So, I hope that will be interesting learning experience for me.
 
 2.  **Learning experience regarding R**
 
-My learning experience regarding R for Health Data Science book and Exercise Set I am still going through it , so I don't go though all the material yet, but so far it is easy to grasp and understand..
+My learning experience regarding R for Health Data Science book and Exercise Set, as I am still going through it , so I don't go though all the material yet, but so far it is easy to grasp and understand..
 
-### *Link to my course diary* 
+### *Link to my course diary*
 
 Here is the link to my course diary <https://babar5119.github.io/IODS-project/>
