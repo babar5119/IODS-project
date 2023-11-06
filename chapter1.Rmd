@@ -12,7 +12,7 @@ date()
 The text continues here.
 
 **Thoughts before the course**
-At the moment, I am feeling a bit overwhelmed with the information from the course, as there are many things need to know being a very basic user of R. However, I hope after couple of exercises and after reading books that are recommended by instructor, many things will be clear soon. 
+At the moment, I am feeling a bit overwhelmed with the information from the course, as there are many things need to know being a very basic user of R. However, I hope after couple of exercises and after reading books that are recommended by instructor, many things will be clear soon.  I am updating it for github. 
 
 **Learning experience regarding R**
 
