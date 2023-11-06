@@ -10,7 +10,9 @@ output:
     fig_height: 4
 ---
 
-Author: **Barkat Ali Babar email: barbar@uef.fi** \*\*\*
+Author: **Barkat Ali Babar**
+
+**email: [barbar\@uef.fi](mailto:barbar@uef.fi){.email}** \*\*\*
 
 # Introduction to Open Data Science - Course Project
 
